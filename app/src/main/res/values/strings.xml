@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">LocalizationDemo</string>
+    <string name="app_name" translatable="false">LocalizationDemo</string>
 
     <!-- localization-->
-    <string name="text_content">Hello World from Resources</string>
-    <string name="btn_english">English</string>
-    <string name="btn_chinese">Chinese</string>
-    <string name="btn_hindi">Hindi</string>
+    <string name="text_content">Hello World</string>
+    <string name="btn_english" translatable="false">English</string>
+    <string name="btn_chinese" translatable="false">Chinese</string>
+    <string name="btn_hindi" translatable="false">Hindi</string>
 </resources>
